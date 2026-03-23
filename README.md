@@ -41,8 +41,6 @@ Hands-on experience configuring and analyzing networks in virtual lab environmen
 ### Technologies
 - MPLS, VPN, STP (Spanning Tree Protocol)
 
-<hr />
-
 ## 🎓 Certifications & Learning
 
 - 🌐 Cisco Certified Network Associate (CCNA)  
@@ -51,6 +49,15 @@ Hands-on experience configuring and analyzing networks in virtual lab environmen
 
 ### 🔜 Planned
 - Certified Penetration Testing Specialist (HTB CPTS)
+
+## 📌 &nbsp;Featured Projects
+
+### 🏎️ Modular C2 Framework
+> Modular C2 framework that explores post-exploitation communication models
+- **Features**: Modular plugin system, exploit engine, encrypted tunnels
+- **Tech**: gRPC, Protobuf, mTLS, Python, GO
+- [View Project →](https://github.com/monico18/SRC-malware_project)
+
 
 ## 📫 Connect with Me:
 <p align="center">
